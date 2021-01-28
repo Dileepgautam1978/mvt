@@ -1,0 +1,1722 @@
+{
+  "settings": {
+    "name": "Mathura Vrindavan Taxi Service",
+    "currentPage": "Oneway cab.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.12.3",
+    "siteFonts": [],
+    "imageResize": true,
+    "uniqCompNum": 46,
+    "versionPublish": "4.12.3",
+    "screenshot": "screenshot.png",
+    "robotsSwitcher": true,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "sitemapSwitcher": false,
+    "siteUrl": false,
+    "sitemapSwitcherAuto": "on",
+    "favicon": false,
+    "cookiesAlert": false,
+    "gdpr": false
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Mathura Vrindavn Taxi Service : Taxi Booking In Mathura | Mathura Tour Package | Mathura Oneway Cab.",
+        "meta_descr": "Tour and travel agency in mathura providing Taxi in Mathura , Tour Package , Mathura Oneway Cab , Mathura Taxi , Mathura Cab , And Many More Just Call us  And Book Your Taxi In Mathura , Mathura Oneway Cab , Mathura Taxi , Mathura Cab ",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"tel:9997548384\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn-parent\"></span>Call Us</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Tourpackage.html#features1-z\">Tour Package</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Oneway cab.html\">OneWay Cab</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Oneway cab.html\">Booking Form</a></li>  ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-129x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mathura Vrindavan Taxi Service</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-r"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/samaj-gathering-during-lathmar-hoil-20190102114851-1000x667.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": true,
+                "title": "Call us to book your taxi in Mathura and many City",
+                "contentAlign": "center",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"tel:9997548384\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>Call us&nbsp;</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://wa.me/9997548384\" data-toolbar=\"-mbrBtnMove\">What's app</a>",
+                "overlay": true,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mathura-birla-temple-800x600.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": true,
+                "title": "Book oneway Taxi from us in Mathura",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"tel:9997548384\" data-toolbar=\"-mbrBtnMove\">Call us</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Oneway cab.html\" data-toolbar=\"-mbrBtnMove\">Oneway cab</a>",
+                "alt": "",
+                "overlay": true,
+                "overlayOpacity": "0.6"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sunrise-at-mathura-wallpaper-2000x1333.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": true,
+                "title": "Best Taxi Service in Mathura",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"tel:9997548384\" data-toolbar=\"-mbrBtnMove\">Call us</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Booking form.html\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
+                "alt": "",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/nidhivan-temple-vrindavan-755x435.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": true,
+                "title": "Choose from vast range of tour package",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"tel:9997548384\" data-toolbar=\"-mbrBtnMove\">CALL US&nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Tourpackage.html\" data-toolbar=\"-mbrBtnMove\">Tour package</a>",
+                "overlay": true,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/goverdhan-parvat-leela-prem-mandir-11-800x455.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": true,
+                "title": "Leave a mail we will call you",
+                "contentAlign": "center",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"tel:9997548384\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>CALL US&nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"Booking form.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>MAIL</a> ",
+                "overlay": true,
+                "alt": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-1",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Tour Package",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-s"
+        },
+        {
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1-600x450.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nativeplanet.com%2Ftravel-guide%2Ftemples-in-mathura-and-vrindavan-you-cannot-afford-to-miss-visiting-004913.html&psig=AOvVaw0Sk_OSQudzbKtDFaXLv6aU&ust=1611738668785000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKC0j9Wgue4CFQAAAAAdAAAAABAF",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Duration-1Day<br>Price-1600(Sedan)<br>&nbsp; &nbsp; &nbsp; &nbsp; 2000(Muv)<br>&nbsp; &nbsp; &nbsp; &nbsp; 2500(Suv)",
+          "caption1": "Mathura:- Dwarkadhish,<br>Shri krishna Janam Sthan,<br>Vishram Ghat<br>Gokul:-Dauji Janam Sthan,<br>Putna Vadh, Nand Haveli,<br>RamanReti, Brahmand Ghat,<br>Chaurasi Khamba<br>Vrindavan:- Bankey Bihari,&nbsp;<br>Isckon Temple, Prem Mandir<br>Rangji Temple, Govinddev Temple, Meerabai Bhajan Ashram, Vaishno Devi Temple,<br>Pagal baba , Birla Temple<br><br><br><br><br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"Booking form.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/941139133vrindavan-govind-dev-temple-main-600x273.jpeg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Duration:2Day<br>Price:-3800(Sedan)<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;4300(Muv)<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;5000(Suv)",
+          "caption2": "<b>Day 1 Mathura:-</b> Dwarkadhish,\n<br>Shri krishna Janam Sthan,\n<br>Vishram Ghat\n<br>Gokul:-Dauji Janam Sthan,\n<br>Putna Vadh, Nand Haveli,\n<br>RamanReti, Brahmand Ghat,\n<br>Chaurasi Khamba\n<br>Vrindavan:- Bankey Bihari, \n<br>Isckon Temple, Prem Mandir\n<br>Rangji Temple, Govinddev Temple, Meerabai Bhajan Ashram, Vaishno Devi Temple,\n<br>Pagal baba , Birla Temple<br>Day 2:-Nand Gawn, Barsana,&nbsp;<br>Goverdhan&nbsp;<br><br><br><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"Booking form.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/17-07-43671861003-ll-1-600x320.jpeg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Duration:3Day<br>Price:-6000(Sedan)<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;6800(Muv)<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;8000(Suv)",
+          "caption3": "<b>Day 1 Mathura:-</b> Dwarkadhish, \n<br>Shri krishna Janam Sthan, \n<br>Vishram Ghat \n<br>Gokul:-Dauji Janam Sthan, \n<br>Putna Vadh, Nand Haveli, \n<br>RamanReti, Brahmand Ghat, \n<br>Chaurasi Khamba \n<br>Vrindavan:- Bankey Bihari, \n<br>Isckon Temple, Prem Mandir \n<br>Rangji Temple, Govinddev Temple, Meerabai Bhajan Ashram, Vaishno Devi Temple, \n<br>Pagal baba , Birla Temple\n<br>Day 2:-Nand Gawn, Barsana, \n<br>Goverdhan<br>Day3:- TajMahal, Red Fort<br>Sikandra, Dayal Bagh, atma dol\n<br>Mehtab Bagh, Mini Taj",
+          "button3": "<a data-app-btn=\"true\" href=\"Booking form.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/download-1-275x183.jpeg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Duration:1 day<br>Price:2800(Sendan) &nbsp; &nbsp; &nbsp; &nbsp; 3300(Muv)<br>&nbsp; &nbsp; &nbsp; &nbsp; 3800(Suv)<br>",
+          "caption4": "Agra:- Taj Mahal, Red Fort<br>Sikandra, Dayal Bagh,atma dol<br>Mehtab Bagh, Mini Taj<br>FatehPurSikri:- Buland Darwaza,<br>SalimChusti Darga , Bhoolbhulayia<br><br><br><br><br><br><br><br><br><br><br><br><br>",
+          "button4": "<a data-app-btn=\"true\" href=\"Booking form.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Book Now</a> <a data-app-btn=\"true\" href=\"Tourpackage.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">View More</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "text-align": "left",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "features1-k"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Oneway Cab",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-t"
+        },
+        {
+          "alias": "deltapi-code-editor",
+          "_isSecondary": true,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section": {
+              "text-align": "center",
+              "color": "#fff"
+            }
+          },
+          "_name": "custom-html",
+          "_customHTML": "<!DOCTYPE html>\r\n<html>\r\n<head>\r\n<style>\r\ntable {\r\n  font-family: arial, sans-serif;\r\n  border-collapse: collapse;\r\n  width: 100%;\r\n}\r\n\r\ntd, th {\r\n  border: 1px solid #dddddd;\r\n  text-align: left;\r\n  padding: 8px;\r\n}\r\n\r\ntr:nth-child(even) {\r\n  background-color: #dddddd;\r\n}\r\n</style>\r\n</head>\r\n<body>\r\n    \r\n<table>\r\n  <tr>\r\n    <th>Trip</th>\r\n    <th>Sedan</th>\r\n    <th>Muv</th>\r\n    <th>Suv</th>\r\n  </tr>\r\n  <tr>\r\n    <td>Mathura to Delhi Taxi</td>\r\n    <td>2500</td>\r\n    <td>3300</td>\r\n    <td>4000</td>\r\n  </tr>\r\n  <tr>\r\n    <td>Mathura To agra Taxi</td>\r\n    <td>1400</td>\r\n    <td>1800</td>\r\n  <td>2500</td>\r\n  </tr>\r\n  <tr>\r\n    <td>Mathura To lucknow Taxi</td>\r\n    <td>8000</td>\r\n    <td>9000</td>\r\n  <td>11000</td>\r\n  </tr>\r\n  <tr>\r\n    <td>Mathura To aligarh Taxi</td>\r\n    <td>1600</td>\r\n    <td>2000</td>\r\n  <td>2500</td>\r\n  </tr>\r\n  <tr>\r\n    <td>Mathura To kasganj Taxi</td>\r\n    <td>2200</td>\r\n    <td>2800</td>\r\n  <td>3200</td>\r\n  </tr>\r\n  <tr>\r\n    <td>Mathura To Bareilly Taxi</td>\r\n    <td>4200</td>\r\n    <td>4600</td>\r\n  <td>5200</td>\r\n  </tr>\r\n  <tr>\r\n    <td>Mathura To Badhyau Taxi</td>\r\n    <td>2800</td>\r\n    <td>3300</td>\r\n  <td>4000</td>\r\n  </tr>\r\n</table>\r\n\r\n</body>\r\n</html>\r\n",
+          "_cid": "sni8E7OeYM",
+          "_anchor": "custom-html-l",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"Booking form.html\" data-toolbar=\"-mbrBtnMove\">Book Now</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Oneway cab.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\"></span>View more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-m"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "SomeTemples&amp;Monument's",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-u"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "fullWidth": false,
+            "noGutter": false,
+            "showText": true,
+            "showBullets": true,
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/17-07-43671861003-ll-750x400.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/17-07-43671861003-ll-750x400-600x400.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Pagal Baba Mandir(Mathura)",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/prem-mandir-1170x659.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/prem-mandir-1170x659-800x525.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Prem mandir(mathura)"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mathura-birla-temple-800x600.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/mathura-birla-temple-800x600-800x540.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Birla Temple(Mathura)",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/shri-krishna-janam-sthan-1024x768.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/shri-krishna-janam-sthan-1024x768-800x508.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Shri Krishna Janmasthan(Mathura)",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/1200px-laxmanjhula-1200x900.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1200px-laxmanjhula-1200x900-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Lakshman Jhoola(Haridwar)",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/download-1-275x183.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/download-1-275x183-275x183.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Taj Mahal(Agra",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/download-2-275x183.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/download-2-275x183-275x183.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Lotus Temple(Delhi)",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/barsana-temple-1280x720.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/barsana-temple-1280x720-800x522.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Barsana",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_anchor": "gallery2-o"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Why Mathura Vrindavan Taxi Service",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-16"
+        },
+        {
+          "text": "Travelling to Mathura for 1st time and not too sure from where to start ? Don’t worry just book a taxi from us and ‘take only precious memories Because we are here and giving services to our costumer since 15 year at a very reasonable price by providing a famliar driver and well maintained cab. Mathura vrindavan Taxi is a Luxury car rental Provider company in Mathura(India) which is engaged in providing cabs on rent in Mathura to tourists to make their travel more enjoyable. &nbsp;Mathura Vrindavan Taxi &nbsp;is a reputed tour and travel company located in Mathura. With a view of providing the clients the most memorable travelling experience, at Mathura &nbsp;we are offering different travel services that are specially tailored keeping in mind the various requirements of the clients. Also, we are well-known for offering attractive tour packages that will take you to some of the most spectacular locations all over the country. Mathura Vrindavan Taxi &nbsp;As a reliable company, Mathura Vrindavan Taxi is offering different type of travel services such as , Car &amp; Coach Rental Services, etc. As a well-known Tour Operator operating in the region, we are offering gamut of attractive tours such as India Tours, Brij Darshan , Heritage &amp; Cultural Tour And Also provide Best Mathura Oneway Cab<div>Since the establishment of the company, we have made dreams come true of many of the clients providing them with memorable travelling experiences with specially designed tours and travel services. As a leading tour and travel company operating in the region, we continue to flourish under the effective guidance and supervision of our owner Mr. Dilip Kumar Gautam. Providing full client satisfaction is our prime concern and to ensure that, we provide transparent deals and follow ethical business practice. just Give us a call or leave a mail for ( Mathura Taxi , Mathura Cab , Mathura Vrindavan Taxi , Mathura Vrindavan Cab , Mathura Oneway Cab , Mathura Tour Package )</div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-17"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-265x262.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>187 Hanuman Nagar Dholi Payu Mathura",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: <a href=\"mailto:Mathuravrindavantaxi@gmail.com\" class=\"text-info\">Mathuravrindavantaxi@gmail.com</a><br>\nPhone: <a href=\"tel:9997548384\" class=\"text-info\">9997548384</a><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"index.html\" class=\"text-info\">Home</a></li><li><a href=\"Tourpackage.html\" class=\"text-info\">Tour Package</a></li><li><a href=\"Oneway cab.html\" class=\"text-info\">Oneway Cab</a></li><li><a href=\"Booking form.html\" class=\"text-info\">Booking Form</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-2",
+          "_styles": {
+            "UL": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          }
+        }
+      ]
+    },
+    "Tourpackage.html": {
+      "settings": {
+        "meta_descr": "Mathura Vrindavan Taxi  Service also provide tour package in mathura while we also provide Customize tour package in mathura as per your Need.",
+        "title": "Mathura Vrindavan Taxi Service : Tour Package in Mathura Book your Tour Package give us a call",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "font-size": "48px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Tour Package",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-g"
+        },
+        {
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1-600x450.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nativeplanet.com%2Ftravel-guide%2Ftemples-in-mathura-and-vrindavan-you-cannot-afford-to-miss-visiting-004913.html&psig=AOvVaw0Sk_OSQudzbKtDFaXLv6aU&ust=1611738668785000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKC0j9Wgue4CFQAAAAAdAAAAABAF",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Duration-1Day<br>Price-1600(Sedan)<br>&nbsp; &nbsp; &nbsp; &nbsp; 2000(Muv)<br>&nbsp; &nbsp; &nbsp; &nbsp; 2500(Suv)",
+          "caption1": "Mathura:- Dwarkadhish,<br>Shri krishna Janam Sthan,<br>Vishram Ghat<br>Gokul:-Dauji Janam Sthan,<br>Putna Vadh, Nand Haveli,<br>RamanReti, Brahmand Ghat,<br>Chaurasi Khamba<br>Vrindavan:- Bankey Bihari,&nbsp;<br>Isckon Temple, Prem Mandir<br>Rangji Temple, Govinddev Temple, Meerabai Bhajan Ashram, Vaishno Devi Temple,<br>Pagal baba , Birla Temple<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/941139133vrindavan-govind-dev-temple-main-600x273.jpeg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Duration:2Day<br>Price:-3800(Sedan)<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;4300(Muv)<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;5000(Suv)",
+          "caption2": "<b>Day 1 Mathura:-</b> Dwarkadhish,\n<br>Shri krishna Janam Sthan,\n<br>Vishram Ghat\n<br>Gokul:-Dauji Janam Sthan,\n<br>Putna Vadh, Nand Haveli,\n<br>RamanReti, Brahmand Ghat,\n<br>Chaurasi Khamba\n<br>Vrindavan:- Bankey Bihari, \n<br>Isckon Temple, Prem Mandir\n<br>Rangji Temple, Govinddev Temple, Meerabai Bhajan Ashram, Vaishno Devi Temple,\n<br>Pagal baba , Birla Temple<br>Day 2:-Nand Gawn, Barsana,&nbsp;<br>Goverdhan&nbsp;<br><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/17-07-43671861003-ll-1-600x320.jpeg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Duration:3Day<br>Price:-6000(Sedan)<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;6800(Muv)<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;8000(Suv)",
+          "caption3": "<b>Day 1 Mathura:-</b> Dwarkadhish, \n<br>Shri krishna Janam Sthan, \n<br>Vishram Ghat \n<br>Gokul:-Dauji Janam Sthan, \n<br>Putna Vadh, Nand Haveli, \n<br>RamanReti, Brahmand Ghat, \n<br>Chaurasi Khamba \n<br>Vrindavan:- Bankey Bihari, \n<br>Isckon Temple, Prem Mandir \n<br>Rangji Temple, Govinddev Temple, Meerabai Bhajan Ashram, Vaishno Devi Temple, \n<br>Pagal baba , Birla Temple\n<br>Day 2:-Nand Gawn, Barsana, \n<br>Goverdhan<br>Day3:- TajMahal, Red Fort<br>Sikandra, Dayal Bagh, atma dol\n<br>Mehtab Bagh, Mini Taj",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/download-1-275x183.jpeg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Duration:1 day<br>Price:2800(Sedan)<br>&nbsp; &nbsp; &nbsp; &nbsp; 3300(muv)<br>&nbsp; &nbsp; &nbsp; &nbsp; 3800(Suv)",
+          "caption4": "Agra:- Taj Mahal, Red Fort<br>Sikandra, Dayal Bagh,atma dol<br>Mehtab Bagh, Mini Taj<br>FatehPurSikri:- Buland Darwaza,<br>SalimChusti Darga , Bhoolbhulayia<br><br><br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Book Now</a> ",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "text-align": "left",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "features1-z"
+        },
+        {
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bharatpur-600x399.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Duration:1Day<br>Price:-2000(Sedan)<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2500(Muv)<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3000(Suv)",
+          "caption1": "FatehPurSikri:- Buland Darwaza,\n<br>SalimChusti Darga , Bhoolbhulayia&nbsp;<br>Bharatpur:bird Senctuary",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/shri-balaji-maharaj-ghata-mehandipur-trust-dausa-ho-dausa-temples-aeqi7o-600x425.jpeg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Duration:1 Day<br>Price:-2600(Sedan)<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3000(MUV)<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3500( Suv)<br>",
+          "caption2": "MehandiPur Balaji Temple<br><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/kaila-devi-1-600x350.jpeg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Duration:1 Day\n<div>Price:-3500(Sedan)\n</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;4000(MUV)\n</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;5000( Suv)</div>",
+          "caption3": "KelaDevi<br><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/download-2-275x183.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Duration:1 Day<br>Price: 4500(Sedan)<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;5000(muv)<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;5500(suv)",
+          "caption4": "Delhi: Red Fort, Humayun's Tomb<br>Qutub Minar, India Gate, Jama Masjid, Bahai'i Lotus Temple<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-i",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "text-align": "left",
+              "font-size": "18px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1200px-laxmanjhula-600x450.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Duration:2Day<br>Price:9000(sedan)<br>&nbsp; &nbsp; &nbsp; &nbsp; 10000(Muv)<br>&nbsp; &nbsp; &nbsp; &nbsp; 11000(Suv)",
+          "caption1": "Haridwar:Harkipauri Ghat,<br>Rishikesh, Lakshman jhula, neelkanth, Naina Devi, Ganga Arti<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/nanital-1-600x337.jpeg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Duration:2Day<br>Price:On request",
+          "caption2": "<br>Naine Lake, Nainital Zoo,<br>Aerial Ropeway Nainital<br>or More on Request<br><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/barsana-temple-600x338.jpeg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Duration<br>5-7 Day(as per you)<br>Price:on request",
+          "caption3": "<br>84 kos Yatra<br><b><i><a href=\"https://drive.google.com/file/d/0B22P_oBMx8tIM3UxczNYRzFTXzNsX1FHMW9OOGZ3Y1l1dzlV/view?usp=drivesdk\" target=\"_blank\">Detail of trip</a><br></i></b><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/images-275x183.jpeg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Duration:1day<br>Price:2500(Sedan)<br>&nbsp; &nbsp; &nbsp; &nbsp; 3000(muv)<br>&nbsp; &nbsp; &nbsp; &nbsp; 3500(suv)",
+          "caption4": "Rajasthan:- kedarnath, badhrinath, gangotri, yamunotri,kamvan<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-j",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "text-align": "left",
+              "font-size": "18px"
+            },
+            "P": {
+              "color": "#4c6972"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "For More or the trip of your choice <a href=\"tel:9997548384\" class=\"text-info\">call us</a>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"Booking form.html\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-19"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-265x262.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>187 Hanuman Nagar Dholi Payu Mathura",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: <a href=\"mailto:Mathuravrindavantaxi@gmail.com\" class=\"text-info\">Mathuravrindavantaxi@gmail.com</a><br>\nPhone: <a href=\"tel:9997548384\" class=\"text-info\">9997548384</a><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"index.html\" class=\"text-info\">Home</a></li><li><a href=\"Tourpackage.html\" class=\"text-info\">Tour Package</a></li><li><a href=\"Oneway cab.html\" class=\"text-info\">Oneway Cab</a></li><li><a href=\"Booking form.html\" class=\"text-info\">Booking Form</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-c",
+          "_styles": {
+            "UL": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"tel:9997548384\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn-parent\"></span>Call Us</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Tourpackage.html#features1-z\">Tour Package</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Oneway cab.html\">OneWay Cab</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Oneway cab.html\">Booking Form</a></li>  ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-129x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mathura Vrindavan Taxi Service</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-r"
+        }
+      ]
+    },
+    "Oneway cab.html": {
+      "settings": {
+        "meta_descr": "Book cabs for one way. Make your Journey safe with Mathura Vrindavan Taxi. Hire taxi at affordable price. Book outstation cabs for one way. Comfortable AC Cabs. Affordable price. Doorstep pickup & drop.",
+        "title": "Mathura Vrindavan Taxi Service : Oneway cab  in Mathura And Oneway Taxi in mathura.",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"tel:9997548384\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn-parent\"></span>Call Us</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Tourpackage.html#features1-z\">Tour Package</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Oneway cab.html\">OneWay Cab</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Oneway cab.html\">Booking Form</a></li>  ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-129x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mathura Vrindavan Taxi Service</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-v"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Oneway Cab",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "Note:All the price given below is in INR and For more Trip please Call us on(<a href=\"tel:9997548384\">9997548384</a>).",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-y"
+        },
+        {
+          "alias": "deltapi-code-editor",
+          "_isSecondary": true,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section": {
+              "text-align": "center",
+              "color": "#fff"
+            }
+          },
+          "_name": "custom-html",
+          "_customHTML": "\n\n\n<style>\ntable {\n  font-family: arial, sans-serif;\n  border-collapse: collapse;\n  width: 100%;\n}\n\ntd, th {\n  border: 1px solid #dddddd;\n  text-align: left;\n  padding: 8px;\n}\n\ntr:nth-child(even) {\n  background-color: #dddddd;\n}\n</style>\n\n\n    \n<table>\n  <tbody><tr>\n    <th>Trip</th>\n    <th>Sedan</th>\n    <th>Muv</th>\n    <th>Suv</th>\n  </tr>\n  <tr>\n    <td>Mathura to Delhi</td>\n    <td>2500</td>\n    <td>3300</td>\n    <td>4000</td>\n  </tr>\n  <tr>\n    <td>Mathura To agra</td>\n    <td>1400</td>\n    <td>1800</td>\n  <td>2500</td>\n  </tr>\n  <tr>\n    <td>Mathura To lucknow</td>\n    <td>8000</td>\n    <td>9000</td>\n  <td>11000</td>\n  </tr>\n  <tr>\n    <td>Mathura To aligarh</td>\n    <td>1600</td>\n    <td>2000</td>\n  <td>2500</td>\n  </tr>\n  <tr>\n    <td>Mathura To kasganj</td>\n    <td>2200</td>\n    <td>2800</td>\n  <td>3200</td>\n  </tr>\n  <tr>\n    <td>Mathura To Bareilly</td>\n    <td>4200</td>\n    <td>4600</td>\n  <td>5200</td>\n  </tr>\n  <tr>\n    <td>Mathura To Badhyau</td>\n    <td>2800</td>\n    <td>3300</td>\n  <td>4000</td>\n  </tr>\n  <tr>\n    <td>Mathura To meerut</td>\n    <td>3000</td>\n    <td>3500</td>\n  <td>4000</td>\n  </tr>\n  <tr>\n    <td>Mathura To Atrauly</td>\n    <td>2000</td>\n    <td>2500</td>\n  <td>3000</td>\n  </tr>\n  <tr>\n    <td>Mathura To Debai</td>\n    <td>2500</td>\n    <td>3000</td>\n  <td>3500</td>\n  </tr>\n  <tr>\n    <td>Mathura To khurja</td>\n    <td>2500</td>\n    <td>3000</td>\n  <td>3500</td>\n  </tr>\n  <tr>\n    <td>Mathura To Rajghat</td>\n    <td>3000</td>\n    <td>3500</td>\n  <td>4000</td>\n  </tr>\n  <tr>\n    <td>Mathura To Hathras</td>\n    <td>1300</td>\n    <td>1800</td>\n  <td>2500</td>\n  </tr>\n  <tr>\n    <td>Mathura To itawa</td>\n    <td>3500</td>\n    <td>4000</td>\n  <td>4500</td>\n  </tr>\n  <tr>\n    <td>Mathura To Kanpur</td>\n    <td>5000</td>\n    <td>6500</td>\n  <td>7500</td>\n  </tr>\n  <tr>\n    <td>Mathura To Haridwar</td>\n    <td>6000</td>\n    <td>8000</td>\n  <td>10500</td>\n  </tr>\n  <tr>\n    <td>Mathura To Bharatpur</td>\n    <td>1200</td>\n    <td>1800</td>\n  <td>2500</td>\n  </tr>\n  <tr>\n    <td>Mathura To Jaipur</td>\n    <td>3500</td>\n    <td>4500</td>\n  <td>5500</td>\n  </tr>\n  <tr>\n    <td>Mathura To Bisauli</td>\n    <td>3500</td>\n    <td>4500</td>\n  <td>5500</td>\n  </tr>\n   <tr>\n    <td>Mathura To Moradabad</td>\n    <td>3500</td>\n    <td>4500</td>\n  <td>5500</td>\n  </tr>\n   <tr>\n    <td>Agra To Delhi</td>\n    <td>3500</td>\n    <td>4500</td>\n  <td>5500</td>\n  </tr>\n   <tr>\n    <td>Agra To Bareilly</td>\n    <td>3500</td>\n    <td>4500</td>\n  <td>5500</td>\n  </tr>\n \n</tbody></table>\n\n\n\n",
+          "_anchor": "custom-html-x",
+          "_isUserblock": true,
+          "_sourceTheme": "default",
+          "_cid": "snm35PGPMA",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MODERN STYLES",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Booking form.html\" data-toolbar=\"-mbrBtnMove\">Book Now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-10"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-265x262.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>187 Hanuman Nagar Dholi Payu Mathura",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: <a href=\"mailto:Mathuravrindavantaxi@gmail.com\" class=\"text-info\">Mathuravrindavantaxi@gmail.com</a><br>\nPhone: <a href=\"tel:9997548384\" class=\"text-info\">9997548384</a><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"index.html\" class=\"text-info\">Home</a></li><li><a href=\"Tourpackage.html\" class=\"text-info\">Tour Package</a></li><li><a href=\"Oneway cab.html\" class=\"text-info\">Oneway Cab</a></li><li><a href=\"Booking form.html\" class=\"text-info\">Booking Form</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-w",
+          "_styles": {
+            "UL": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          }
+        }
+      ]
+    },
+    "Booking form.html": {
+      "settings": {
+        "meta_descr": "Book cabs for one way.  by filling this Form or call us for urgent booking of Mathura Taxi , mathura Cab , Oneway cab In mathura , Tour package in mathura .",
+        "title": "Mathura Vrindavan Taxi Service : Booking Form",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"tel:9997548384\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn-parent\"></span>Call Us</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Tourpackage.html#features1-z\">Tour Package</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Oneway cab.html\">OneWay Cab</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Oneway cab.html\">Booking Form</a></li>  ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-129x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mathura Vrindavan Taxi Service</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-11"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "BOOKING FORM",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
+          "form": {
+            "action": "Mathuravrindavantaxi@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form! we will call you soon"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Trip Detail"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-13"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-265x262.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>187 Hanuman Nagar Dholi Payu Mathura",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: <a href=\"mailto:Mathuravrindavantaxi@gmail.com\" class=\"text-info\">Mathuravrindavantaxi@gmail.com</a><br>\nPhone: <a href=\"tel:9997548384\" class=\"text-info\">9997548384</a><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"index.html\" class=\"text-info\">Home</a></li><li><a href=\"Tourpackage.html\" class=\"text-info\">Tour Package</a></li><li><a href=\"Oneway cab.html\" class=\"text-info\">Oneway Cab</a></li><li><a href=\"Booking form.html\" class=\"text-info\">Booking Form</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "UL": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "contacts1-12"
+        }
+      ]
+    }
+  }
+}
